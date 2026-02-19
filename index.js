@@ -28,8 +28,6 @@ const main = async () => {
 
     portal.use(Modules.AutoFriendAdd, {
         inviteOnAdd: true,
-        checkInterval: 15000,
-        addInterval: 2000,
     });
 
     portal.use(Modules.ServerFromList, {
@@ -56,7 +54,7 @@ const main = async () => {
     })
 
     portal.use(Modules.UpdateMemberCount, {
-        updateInterval: 60000,
+        updateInterval: 5000,   // 5 seconds
         updateMaxMemberCount: true
     })
 
