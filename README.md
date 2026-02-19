@@ -1,38 +1,38 @@
 # Bedrock Portal Friend Connect Bot
 
-A Minecraft Bedrock Edition bot for version 1.26+ that automatically manages friends and sends them to your chosen server.
+A Minecraft Bedrock Edition bot for version 1.26+.
 
 ---
 
 ## Features
 
-- Auto-accept follow requests and invite players
-- Server selection form – choose the server to join
-- Frequent member count updates
-- Logging: joins, leaves, session updates
+- Auto accept follow requests
+- Server selection form – choose your desired server
+- Updates member count frequently
+- Logs joins, leaves, and session updates
 
 ---
 
 ## How It Works
 
-1. Accepts follow requests (invites players when added)
-2. Shows a server selection form
-3. Transfers players to the selected server
+1. Accepts follow requests (invites upon add)
+2. Shows a form to select the server
+3. Transfers players to the chosen server
 
 ---
 
 ## How To Join Back
 
-1. Open the Friends tab in Minecraft
+1. Open your Friends tab in Minecraft
 2. Click "Join" on the bot's username
 
 ---
 
 ## Requirements
 
-- Minecraft Bedrock Edition 1.26 or higher
+- Minecraft Bedrock Edition 1.26+
 - Node.js v18+  
-- Xbox account for the bot  
+- Xbox account for the bot
 - Node modules: `bedrock-portal` and `prismarine-auth`
 
 ---
