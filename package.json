@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bedrock-portal": "^1.1.6",
+    "bedrock-protocol": "^3.53.0"
+  }
+}
